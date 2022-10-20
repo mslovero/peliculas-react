@@ -1,0 +1,23 @@
+.detailsContainer{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+
+}
+.col{
+    max-width: 400px;
+    margin: 15px;
+    height: auto;
+    height: 80%;
+}
+
+.peliculaImagen{
+    border-radius: 15px;
+}
+
+.peliculaDetails{
+    font-size: 1.5rem;
+}
+.titutoPrimero{
+    margin-top: 0;
+}
